@@ -1,0 +1,4 @@
+*.o
+shellforge
+test.txt
+sf_test_output.txt
